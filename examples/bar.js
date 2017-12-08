@@ -4,7 +4,7 @@
 require('../assets/index.less');
 const React = require('react');
 const ReactDOM = require('react-dom');
-const Bar = require('react-bar/src/Bar');
+const Bar = require('react-bar-kn/src/Bar');
 
 const TestBar = React.createClass({
 
