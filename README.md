@@ -1,30 +1,30 @@
-# react-bar
+# react-bar-kn
 ---
 
-react-bar
+react-bar-kn
 
 [![build status][travis-image]][travis-url]
 [![NPM version][npm-image]][npm-url]
 [![Test coverage][coveralls-image]][coveralls-url]
 [![npm download][download-image]][download-url]
 
-[travis-image]: https://travis-ci.org/konna/react-bar.svg?style=flat-square
-[travis-url]: https://travis-ci.org/konna/react-bar
-[npm-image]: https://img.shields.io/npm/v/react-bar.svg?style=flat-square
-[npm-url]: http://npmjs.org/package/react-bar
-[coveralls-image]: https://coveralls.io/repos/github/konna/react-bar/badge.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/github/konna/react-bar?branch=master
-[download-image]: https://img.shields.io/npm/dm/react-bar.svg?style=flat-square
-[download-url]: https://npmjs.org/package/react-bar
+[travis-image]: https://travis-ci.org/konna/react-bar-kn.svg?style=flat-square
+[travis-url]: https://travis-ci.org/konna/react-bar-kn
+[npm-image]: https://img.shields.io/npm/v/react-bar-kn.svg?style=flat-square
+[npm-url]: http://npmjs.org/package/react-bar-kn
+[coveralls-image]: https://coveralls.io/repos/github/konna/react-bar-kn/badge.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/github/konna/react-bar-kn?branch=master
+[download-image]: https://img.shields.io/npm/dm/react-bar-kn.svg?style=flat-square
+[download-url]: https://npmjs.org/package/react-bar-kn
 
 ## install
 
-[![react-bar](https://nodei.co/npm/react-bar.png)](https://npmjs.org/package/react-bar)
+[![react-bar-kn](https://nodei.co/npm/react-bar-kn.png)](https://npmjs.org/package/react-bar-kn)
 
 ## Usage
 
 ```js
-const Bar = require('react-bar/src/Bar');
+const Bar = require('react-bar-kn/src/Bar');
 var React = require('react');
 React.render(<Bar />, container);
 ```
@@ -79,7 +79,7 @@ React.render(<Bar />, container);
 ## Development
 
 ```
-npm install react-bar --save
+npm install react-bar-kn --save
 npm run start
 ```
 
