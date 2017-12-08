@@ -83,7 +83,6 @@ npm install react-bar-kn --save
 npm run start
 ```
 
-## Example
 
 
 
