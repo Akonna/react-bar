@@ -1,2 +1,2 @@
 require('../assets/index.less');
-module.exports = require('./VerifyCode');
+module.exports = require('./Bar');

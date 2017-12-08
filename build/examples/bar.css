@@ -1,15 +1,13 @@
-
-.bar{
-  width:500px;
-  height:300px;
+.bar {
+  width: 500px;
+  height: 300px;
   border-bottom: 1px solid #000;
-  border-left:1px solid #000;
+  border-left: 1px solid #000;
   position: relative;
-  left:100px;
+  left: 100px;
   margin-bottom: 40px;
-
 }
-.yname{
+.yname {
   position: absolute;
   left: -70px;
   bottom: 10px;
@@ -17,7 +15,7 @@
   text-align: center;
   width: 100px;
 }
-.yLabel{
+.yLabel {
   width: 4px;
   position: absolute;
   left: -4px;
@@ -25,22 +23,20 @@
   display: block;
   border-top: 1px solid #000;
 }
-.inner{
-  width:50px;
+.inner {
+  width: 50px;
   position: absolute;
   bottom: 0;
   background-color: red;
 }
-
-.innerValue{
+.innerValue {
   display: block;
-  width:50px;
+  width: 50px;
   position: absolute;
   bottom: 0;
   text-align: center;
-
 }
-.title{
+.title {
   font-size: 15px;
   border-bottom: 1px solid #000;
   margin: 20px 0;
@@ -49,4 +45,4 @@
   width: 500px;
 }
 
-
+/*# sourceMappingURL=bar.css.map*/
