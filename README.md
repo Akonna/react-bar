@@ -73,6 +73,12 @@ React.render(<Bar />, container);
                                   <td>true</td>
                                   <td>是否显示y的刻度，false不显示，true显示</td>
                                 </tr>
+                                <tr>
+                                                                  <td>y</td>
+                                                                  <td>Number</td>
+                                                                  <td>50</td>
+                                                                  <td>y轴间隔默认50</td>
+                                                                </tr>
     </tbody>
 </table>
 
