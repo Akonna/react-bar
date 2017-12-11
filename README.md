@@ -23,10 +23,10 @@ react-bar-kn
 
 ## Usage
 
-```js
-const Bar = require('react-bar-kn/src/Bar');
-var React = require('react');
-React.render(<Bar />, container);
+```调用组件
+npm install react-bar-kn --save
+import Bar from 'react-bar-kn';    
+React.render(<Bar  data={data} width={40} color={'#ccc'} title="各组待处理工单" show={true}  y={50}/>, container);
 ```
 
 ## API
@@ -85,8 +85,12 @@ React.render(<Bar />, container);
 ## Development
 
 ```
-npm install react-bar-kn --save
+npm install
+
 npm run start
+
+http://localhost:8001/examples/bar.html
+
 ```
 
 
