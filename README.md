@@ -25,7 +25,8 @@ react-bar-kn
 
 ```调用组件
 npm install react-bar-kn --save
-import Bar from 'react-bar-kn';    
+import Bar from 'react-bar-kn'; 
+import React from 'react';
 React.render(<Bar  data={data} width={40} color={'#ccc'} title="各组待处理工单" show={true}  y={50}/>, container);
 ```
 
